@@ -1,2 +1,5 @@
 # file and folder to be ignore 
 
+node-modules/
+*.zip
+*.rar
